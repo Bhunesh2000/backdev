@@ -13,3 +13,7 @@ console.log(average(scores));
 console.log("scores list 2 average ->")
 var scores2=[40,65,77,82,80,54,73,63,95,49];
 console.log(average(scores2));
+
+console.log("scores list 3 average ->");
+var scores3=[10,20,30,40,50,60];
+console.log(average(scores3));
